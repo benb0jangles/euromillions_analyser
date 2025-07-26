@@ -2,6 +2,9 @@
 
 A comprehensive tkinter-based desktop application for analysing EuroMillions lottery data with advanced statistical tools and pattern recognition capabilities.
 
+![app_img1](https://github.com/benb0jangles/euromillions_analyser/blob/main/img/Screenshot%202025-07-26%20at%2021.48.40.png)
+
+
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
