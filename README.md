@@ -1,6 +1,6 @@
-# EuroMillions Lottery Analyzer
+# EuroMillions Lottery Analyser
 
-A comprehensive tkinter-based desktop application for analyzing EuroMillions lottery data with advanced statistical tools and pattern recognition capabilities.
+A comprehensive tkinter-based desktop application for analysing EuroMillions lottery data with advanced statistical tools and pattern recognition capabilities.
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -22,7 +22,7 @@ A comprehensive tkinter-based desktop application for analyzing EuroMillions lot
 ### 💾 **Personal Number Management**
 - **Save Number Sets**: Store your favorite combinations with custom names
 - **Historical Analysis**: Check how your numbers performed in past draws
-- **Bulk Analysis**: Analyze all saved number sets simultaneously
+- **Bulk Analysis**: Analyse all saved number sets simultaneously
 
 ### 🔍 **Advanced Features**
 - **Bias Detection**: Statistical analysis for lottery equipment anomalies
@@ -45,8 +45,8 @@ A comprehensive tkinter-based desktop application for analyzing EuroMillions lot
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/euromillions-analyzer.git
-cd euromillions-analyzer
+git clone https://github.com/benb0jangles/euromillions_analyser.git
+cd euromillions_analyser
 ```
 
 2. Install dependencies:
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-python3 euromillions_analyzer.py
+python3 euromillions_analyser.py
 ```
 
 ## Usage
@@ -92,11 +92,11 @@ Generate smart number combinations using various strategies:
 #### 📚 Saved Numbers
 Manage your personal number combinations:
 - Save sets with custom names
-- Analyze historical performance
+- Analyse historical performance
 - Load and modify existing sets
 
 #### 🎲 Your Numbers
-Input and analyze your own number combinations:
+Input and analyse your own number combinations:
 - Frequency analysis of your chosen numbers
 - Historical match tracking
 - Win probability calculations
@@ -131,7 +131,7 @@ The application uses the official EuroMillions API:
 
 ### File Structure
 ```
-euromillions_analyzer.py      # Main application
+euromillions_analyser.py      # Main application
 requirements.txt              # Python dependencies
 saved_numbers.json           # Stored user number combinations (created on first save)
 euromillions_data_cache.json # Cached lottery data (created on first download)
@@ -168,10 +168,10 @@ This application is for educational and entertainment purposes only. Playing the
 ## Support
 
 If you encounter any issues or have questions:
-1. Check the existing [Issues](https://github.com/yourusername/euromillions-analyzer/issues)
+1. Check the existing [Issues](https://github.com/yourusername/euromillions_analyser/issues)
 2. Create a new issue with detailed information about the problem
 3. Include your Python version and operating system
 
 ---
 
-**Happy analyzing! 🍀**
+**Happy analysing! 🍀**
