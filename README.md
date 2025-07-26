@@ -166,7 +166,9 @@ This application is for educational and entertainment purposes only. Playing the
 
 ## Screenshots
 
-*Coming soon - Screenshots of the main interface and analysis tabs*
+![app_img2](https://github.com/benb0jangles/euromillions_analyser/blob/main/img/Screenshot%202025-07-26%20at%2021.51.37.png)
+
+![app_img3](https://github.com/benb0jangles/euromillions_analyser/blob/main/img/Screenshot%202025-07-26%20at%2021.52.39.png)
 
 ## Support
 
